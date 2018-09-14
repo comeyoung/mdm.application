@@ -18,4 +18,7 @@ public interface IBORepositoryBusinessPartner extends CrudRepository<BusinessPar
      */
     BusinessPartner findBusinessPartnerByUniqueKey(String uniqueKey);
 
+
+
+
 }

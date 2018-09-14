@@ -15,6 +15,7 @@ import org.springframework.stereotype.Service;
  * @author Fancy
  * @date 2018/9/6
  */
+
 @Service
 public class BusinessPartnerGroupService extends AbsMasterDataService{
 
